@@ -43,6 +43,7 @@ body{
 
 li a{
     text-decoration: none;
+    color: var(--main-text);
 }
 
 li:hover{
